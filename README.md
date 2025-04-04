@@ -1,1 +1,1 @@
-![Vraith Banner](https://i.imgur.com/iLp4Teg.png)
+![Vraith Banner](https://i.imgur.com/yu237rW.png)
