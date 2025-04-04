@@ -24,11 +24,11 @@ Here are a few I let out of the lab. The rest... are still evolving in the shado
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔸 **ProjetObjetImaginaire** | Conceptual dev test with API & logic | PHP, JSON, MVC |
+| 🔸**Codoc** | Micro blogging site whose purpose is to share content related to Web Development| PHP, MVC, JS |
 | 🔹 **Nihon** | Online manga library with borrowing system | PHP, REST, MVC |
 | 🔸 **Portfolio Cyberpunk** | Personal site in progress, glitch-themed | HTML, CSS, Figma, 💀 |
 
-> *Want a full list? Check the pinned repositories.*
+> *Want a full list? Check the pinned repositories. Many more to come so drop a follow.*
 
 ---
 
