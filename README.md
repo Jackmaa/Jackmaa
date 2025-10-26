@@ -46,7 +46,7 @@ Here are a few I let out of the lab. The rest... are still evolving in the shado
 
 ### ⚔️ Contact & Links
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/valentin-gillot/])  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-gillot/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-cyberpunk?style=flat&logo=firefox&logoColor=white)](https://vraith.dev) *(Soon...)*
 
 ---
